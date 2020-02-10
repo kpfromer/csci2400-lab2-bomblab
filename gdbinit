@@ -4,11 +4,6 @@ echo in this directory\n
 echo \n
 echo Set breakpoint for main, add and ptrAdd\n
 
-break main
-break initialize_bomb
-break phase_1
-break phase_2
-break phase_3
 break phase_4
 break phase_5
 break phase_6
